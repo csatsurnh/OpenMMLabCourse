@@ -14,7 +14,7 @@ OpenMMLab course index and materials
 
 
 
-
+<!---
 
 
 | | 讲座内容 | 讲座视频 | 代码教学 |
@@ -37,7 +37,7 @@ OpenMMLab course index and materials
 
 
 
-
+--->
 
 
 
@@ -62,6 +62,9 @@ OpenMMLab course index and materials
 | 第17讲 | 模型部署与 MMDeploy | In Comming |  |  |
 
 
+<!---
+
+
 |        |                                               讲座内容                                                |                                                                          讲座视频                                                                          |                                                                          代码教学                                                                          |                                  课程中的代码                                  |
 | :----: | :---------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
 | 第1讲  |               [计算机视觉 OpenMMLab 概述](https://www.bilibili.com/video/BV1R341117FJ/)               |  [![Link](https://i1.hdslb.com/bfs/archive/24cc8148270f237cff0738fc8cd50557a6462de0.png@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1R341117FJ/)   |                                                                                                                                                            |                                                                                |
@@ -81,6 +84,10 @@ OpenMMLab course index and materials
 | 第15讲 |  [自监督学习与 MMselfSup](https://space.bilibili.com/1293512903/channel/collectiondetail?sid=657287)  |                                                                         In Comming                                                                         |   [![Link](https://i1.hdslb.com/bfs/archive/7e5e9a0571cbc98f043d6bc4050fb9e785c2606f.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1hg411r7iK)   |                [MMSelfSup_tutorials](codes/MMSelfSup_tutorials)                |
 | 第16讲 |                                          模型压缩与 MMRazor                                           |                                                                         In Comming                                                                         |                                                                                                                                                            |                                                                                |
 | 第17讲 |                                          模型部署与 MMDeploy                                          |                                                                         In Comming                                                                         |                                                                                                                                                            |                                                                                |
+
+
+--->
+
 
 ## MMYOLO 系列视频
 
